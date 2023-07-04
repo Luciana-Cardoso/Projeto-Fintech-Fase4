@@ -1,0 +1,42 @@
+body {
+    background-color: #6AF4D3;
+    
+}
+
+h1 {
+    font-size: 20px;
+    color: black;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+    text-decoration: overline;
+    }
+
+    
+    
+    img {
+        
+        margin-left: 35%;
+        margin-top: 10%;
+        width: 500px;
+        border-radius: 10px;
+        filter: opacity(50px);
+        
+}
+
+h2 {
+    font-size: 20px;
+    font-family: 'Gorditas', cursive;
+    text-align: center;
+    color: #D96625;
+}
+
+
+div {
+    margin-left: 47%;
+    color: #3B24CB;
+
+
+}
+
+
+
